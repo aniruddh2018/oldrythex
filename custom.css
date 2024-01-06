@@ -1,0 +1,88 @@
+/* custom.css */
+
+/* Update the background color of the header */
+header {
+    background-color: #808080; /* Black color */
+    color: #ecf0f1; /* Light grey text */
+}
+
+/* Update the color of the navigation links */
+.navbar-nav .nav-link {
+    color: #a6aeb3; /* Blue color */
+}
+
+/* Update the color of the buttons */
+.btn-primary {
+    background-color: #2c3e50; /* Blue-grey color */
+    border-color: #1f2c39; /* Dark blue-grey border color */
+    color: #ecf0f1; /* Light grey text */
+}
+
+/* Update the color of the card titles */
+.card-title {
+    color: #333; /* Black color */
+}
+
+/* Update the color of the card text */
+.card-text {
+    color: #7f8c8d; /* Grey color */
+}
+/* custom.css */
+
+/* custom.css */
+
+/* Style for the welcome section */
+/* custom.css */
+
+/* Style for the welcome section */
+.welcome-section {
+    position: relative;
+    background-color: #fff; /* Set background color as needed */
+    color: #333; /* Set text color as needed */
+    padding: 100px 0;
+}
+
+/* Text on the left */
+.welcome-content {
+    text-align: left;
+}
+
+/* Style for the welcome heading */
+.welcome-content h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Style for the welcome text */
+.welcome-content p,
+.welcome-content h6 {
+    font-size: 1.25rem;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Style for the contact button */
+.welcome-content a.btn-primary {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* Center the button */
+.welcome-content a.btn-primary {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: fit-content;
+}
+/* Hover effect for the contact button */
+.welcome-content a.btn-primary:hover {
+    background-color: #0056b3;
+}
