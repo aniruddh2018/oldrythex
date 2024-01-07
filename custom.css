@@ -2,7 +2,7 @@
 
 /* Update the background color of the header */
 header {
-    background-color: #808080; /* Black color */
+    background-color: #e7e2e2; /* Black color */
     color: #ecf0f1; /* Light grey text */
 }
 
@@ -27,14 +27,7 @@ header {
 .card-text {
     color: #7f8c8d; /* Grey color */
 }
-/* custom.css */
-
-/* custom.css */
-
-/* Style for the welcome section */
-/* custom.css */
-
-/* Style for the welcome section */
+ */
 .welcome-section {
     position: relative;
     background-color: #fff; /* Set background color as needed */
@@ -85,4 +78,43 @@ header {
 /* Hover effect for the contact button */
 .welcome-content a.btn-primary:hover {
     background-color: #0056b3;
+}
+.welcome-content {
+    text-align: justify;
+}
+.card-text-fixed {
+    height: 90px; /* Adjust this value according to your content */
+    overflow: hidden;
+}
+/* Sample colors for the security theme */
+#pricing {
+    background-color: #f0f5f9; /* Light blueish background */
+    padding: 50px 0;
+}
+
+.card {
+    background-color: #ffffff; /* White cards */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow for the cards */
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.card-title {
+    color: #35495e; /* Dark blueish text for card titles */
+}
+
+.card-text {
+    color: #657786; /* Grayish text color for card details */
+}
+
+.btn-primary {
+    background-color: #4caf50; /* Greenish color for buttons */
+    border-color: #4caf50;
+    color: #ffffff; /* White text for buttons */
+}
+
+.btn-primary:hover {
+    background-color: #388e3c; /* Darker green on hover */
+    border-color: #388e3c;
 }
