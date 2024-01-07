@@ -25,13 +25,13 @@ header {
 
 /* Update the color of the card text */
 .card-text {
-    color: #7f8c8d; /* Grey color */
+    color: #7bb7bb; /* Grey color */
 }
  */
 .welcome-section {
     position: relative;
-    background-color: #fff; /* Set background color as needed */
-    color: #333; /* Set text color as needed */
+    background-color: #fa4a05; /* Set background color as needed */
+    color: #0056b3; /* Set text color as needed */
     padding: 100px 0;
 }
 
